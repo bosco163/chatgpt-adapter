@@ -33,7 +33,7 @@ var (
 		"claude-3-5-sonnet-20241022",
 		"claude-3-5-sonnet-20240620",
 		"grok-2-2024-08-13",
-		"grok-2-mini-2024-08-13",
+		"grok-3-preview-02-24",
 		"gemini-1.5-pro-002",
 		"gemini-1.5-flash-002",
 		"gemini-1.5-flash-8b-001",
